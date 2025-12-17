@@ -1,6 +1,6 @@
 # My First Project
 
-This is my first project using HTML.
+This is my first project using HMTL.
 
 ## Description
 A simple webpage that displays a heading, a paragraph, and a button.
